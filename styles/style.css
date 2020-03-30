@@ -276,4 +276,18 @@ footer .contact-support a {
   margin-bottom: 15px;
   margin-right: 150px;
 }
+
+footer .ref {
+  display: inline;
+  font-weight: 700;
+  position: relative;
+  top: 40px;
+  right: 100px;
+}
+
+footer .ref a {
+  display: inline;
+  margin: 0;
+  color: #3065f8;
+}
 /*# sourceMappingURL=style.css.map */

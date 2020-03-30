@@ -216,4 +216,17 @@ footer {
       margin-right: 150px;
     }
   }
+
+  .ref {
+    display: inline;
+    font-weight: 700;
+    position: relative;
+    top: 40px;
+    right: 100px;
+    a {
+      display: inline;
+      margin: 0;
+      color:$accentBrightBlue;
+    }
+  }
 }
